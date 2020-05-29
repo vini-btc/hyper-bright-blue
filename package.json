@@ -1,0 +1,22 @@
+{
+  "name": "hyper-bright-blue",
+  "version": "1.0.0",
+  "description": "A slightly tweaked interpretation of the Tomorrow Night Blue theme for Hyper terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vicnicius/hyper-bright-blue.git"
+  },
+  "keywords": [
+    "hyper-theme", "theme", "hyper", "terminal", "tomorrow night blue"
+  ],
+  "author": "Vinícius Andrade <vini.andrade.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicnicius/hyper-tomorrow-night-blue/issues"
+  },
+  "homepage": "https://github.com/vicnicius/hyper-tomorrow-night-blue#readme"
+}
