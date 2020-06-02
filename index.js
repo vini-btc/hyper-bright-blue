@@ -9,7 +9,7 @@ const colors = {
   yellow: "#f2fa8c",
   blue: "#bbdaff",
   magenta: "#ebbbff",
-  cyan: "#100ffff",
+  cyan: "#100fff",
   white: "#bfbfbf",
   lightBlack: "#2f1f1f",
   lightRed: "#ffc3c6",

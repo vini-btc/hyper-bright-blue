@@ -1,6 +1,6 @@
 {
   "name": "hyper-bright-blue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A slightly tweaked interpretation of the Tomorrow Night Blue theme for Hyper terminal.",
   "main": "index.js",
   "scripts": {
